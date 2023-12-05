@@ -1,0 +1,1364 @@
+{
+  "data": [
+    {
+      "nomeOrgao": "PREFEITURA DE BOTUCATU - SP",
+      "codigoOrgao": 262490,
+      "site": "http://www2.admtransito.com.br/consulta/index.php?ATIVIDADE=AUTUACOES",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA GUARUJA - SP",
+      "codigoOrgao": 264750,
+      "site": "http://179.228.165.175/consulta/index.php?ATIVIDADE=AUTUACOES",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE PALMAS - TO",
+      "codigoOrgao": 297330,
+      "site": "https://controlpk-to.perkons.com.br/consulta/index.php?USUARIO=palmas-consulta",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE PRAIA GRANDE - SP",
+      "codigoOrgao": 269210,
+      "site": "http://www.parisadministracao.com.br/sttpublico/index.php",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE SÃO CARLOS - SP",
+      "codigoOrgao": 270790,
+      "site": "http://www2.admtransito.com.br/consulta/index.php",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE SÃO SEBASTIÃO - SP",
+      "codigoOrgao": 271150,
+      "site": "http://179.228.165.175/consulta/index.php?ATIVIDADE=AUTUACOES",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE SÃO SEBASTIÃO - SP",
+      "codigoOrgao": 271510,
+      "site": "179.228.165.175/consulta/index.php?USUARIO=consulta7151",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREEFEITURA DE COTIA - SP",
+      "codigoOrgao": 263610,
+      "site": "https://cotia.consultacidadao.com.br/#",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE BERTIOGA - SP",
+      "codigoOrgao": 229650,
+      "site": "https://www2.admtransito.com.br/consulta/?USUARIO=bertioga-consulta",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE CUBATÃO - SP",
+      "codigoOrgao": 263710,
+      "site": "https://www2.admtransito.com.br/consulta/index.php?USUARIO=cubatao-consulta",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE FERRAZ DE VASCONCELOS - SP",
+      "codigoOrgao": 264150,
+      "site": "http://200.98.31.31/consulta/index.php?ATIVIDADE=AUTUACOES",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE TAUBATÉ - SP",
+      "codigoOrgao": 271830,
+      "site": "https://www2.admtransito.com.br/consulta/index.php?USUARIO=taubate-consulta",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": "X"
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE MAIRIPORÃ - SP",
+      "codigoOrgao": 266710,
+      "site": "https://www2.admtransito.com.br/consulta/?USUARIO=mairipora-consulta",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREF. DE SÃO JOSÉ DO RIO PRETO - SP",
+      "codigoOrgao": 270970,
+      "site": "http://www.dcctransito.com.br/consulta/index.cfm?municipio=7097",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITTURA DE SERTÃOZINHO - SP",
+      "codigoOrgao": 271350,
+      "site": "http://www.dcctransito.com.br/consulta/index.cfm?municipio=7135",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE ANGATUBA - SP",
+      "codigoOrgao": 261430,
+      "site": "http://www.dcctransito.com.br/consulta/index.cfm?municipio=6143",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE CONCHAL - SP",
+      "codigoOrgao": 263450,
+      "site": "http://www.dcctransito.com.br/consulta/index.cfm?municipio=6345",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE FRANCA - SP",
+      "codigoOrgao": 264250,
+      "site": "http://www.dcctransito.com.br/consulta/index.cfm?municipio=6425",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE FRANCO DA ROCHA - SP",
+      "codigoOrgao": 264290,
+      "site": "http://www.dcctransito.com.br/consulta/index.cfm?municipio=6429",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE GUARAREMA - SP",
+      "codigoOrgao": 264670,
+      "site": "http://www.dcctransito.com.br/consulta/index.cfm?municipio=6467",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE GUAREI - SP",
+      "codigoOrgao": 264710,
+      "site": "http://www.dcctransito.com.br/consulta/index.cfm?municipio=6471",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE GUARIBA - SP",
+      "codigoOrgao": 264730,
+      "site": "http://www.dcctransito.com.br/consulta/index.cfm?municipio=6473",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE IBIUNA - SP",
+      "codigoOrgao": 264950,
+      "site": "http://www.dcctransito.com.br/consulta/index.cfm?municipio=6495",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE ITAPEVA - SP",
+      "codigoOrgao": 265490,
+      "site": "http://www.dcctransito.com.br/consulta/index.cfm?municipio=6549",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE ITAPEVÍ - SP",
+      "codigoOrgao": 265510,
+      "site": "https://itapevi.consultacidadao.com.br/",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE MOGI DAS CRUZES - SP",
+      "codigoOrgao": 267130,
+      "site": "https://mogidascruzes.consultacidadao.com.br/",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE OSASCO - SP",
+      "codigoOrgao": 267890,
+      "site": "http://www.dcctransito.com.br/consulta/index.cfm?municipio=6789",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE SÃO VICENTE - SP",
+      "codigoOrgao": "it",
+      "site": "http://www.dcctransito.com.br/consulta/index.cfm?municipio=7121",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE VARZEA PAULISTA - SP",
+      "codigoOrgao": 272330,
+      "site": "http://www.dcctransito.com.br/consulta/index.cfm?municipio=7233",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE IBIUNA - SP",
+      "codigoOrgao": 264950,
+      "site": "http://www.dcctransito.com.br/consulta/index.cfm?municipio=6495",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE SUMARÉ - SP",
+      "codigoOrgao": 271490,
+      "site": "https://sumare.consultacidadao.com.br/#",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DER - MG",
+      "codigoOrgao": 113200,
+      "site": "http://www.consultaait.der.mg.gov.br/grv6-frontend/",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DER - SP",
+      "codigoOrgao": 126200,
+      "site": "http://www.multas1.der.sp.gov.br/der_multas_web/pages/DER_Multas_Web/index.aspx",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "X",
+      "boletoOrgao": "",
+      "originariaOrgao": "X"
+    },
+    {
+      "nomeOrgao": "DETRAN - AL",
+      "codigoOrgao": 102100,
+      "site": "https://www.detran.al.gov.br/",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DETRAN - CE",
+      "codigoOrgao": 106100,
+      "site": "https://sistemas.detran.ce.gov.br/central/veiculos/consulta_completa \r\nhttp://erenavam.detran.ce.gov.br/getran/emissao.do",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DETRAN - DF",
+      "codigoOrgao": 107100,
+      "site": "https://portal.detran.df.gov.br/#/servicos/detran-digital/veiculos/consulta/debitos",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DETRAN - ES",
+      "codigoOrgao": 108100,
+      "site": "https://publicodetran.es.gov.br/consultaBoletoMulta.asp",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DETRAN - GO",
+      "codigoOrgao": 109100,
+      "site": "https://goias.gov.br/detran/",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DETRAN - MA",
+      "codigoOrgao": 110100,
+      "site": "https://portal.detrannet.detran.ma.gov.br/Veiculo/Veiculos.cshtml",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DETRAN - MG",
+      "codigoOrgao": 113100,
+      "site": "https://transito.mg.gov.br/veiculos/situacao-do-veiculo/consultar-situacao-do-veiculo",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DETRAN - MS",
+      "codigoOrgao": 112100,
+      "site": "https://www.meudetran.ms.gov.br/infracao.php",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DETRAN - PA",
+      "codigoOrgao": 114100,
+      "site": "http://www.detran.pa.gov.br/sistransito/detran-web/servicos/b/indexBInfracao.jsf https://www.detran.pa.gov.br/sistransito/detran-web/servicos/infracao/indexConsultaInfracao.jsf",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DETRAN - PE",
+      "codigoOrgao": 117100,
+      "site": "https://online5.detran.pe.gov.br/ServicosWeb/VeiculoMVC/ConsultaPlaca/ConsultarPlaca",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DETRAN - PI",
+      "codigoOrgao": 118100,
+      "site": "http://taxas.detran.pi.gov.br/multa/index.jsf",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DETRAN - PR",
+      "codigoOrgao": 116100,
+      "site": "https://www.extratodebito.detran.pr.gov.br/detranextratos/geraExtrato.do?action=iniciarProcesso",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DETRAN - PR IMG",
+      "codigoOrgao": 116100,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "BRADESCO",
+      "codigoOrgao": 119100,
+      "site": "https://www.ib7.bradesco.com.br/ibpfdetranrj/debitoVeiculoRJGrmConsultar.do",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DETRAN - RN",
+      "codigoOrgao": 120100,
+      "site": "http://www2.detran.rn.gov.br/externo/consultarveiculo.asp",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DETRAN - RR",
+      "codigoOrgao": 123100,
+      "site": "https://www.detran.rr.gov.br/",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DETRAN - RS",
+      "codigoOrgao": 121100,
+      "site": "https://www.portaldetransito.rs.gov.br/dtw/servicos/sit/notificacao_pesquisar.jsp",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DETRAN - SC",
+      "codigoOrgao": 125100,
+      "site": "http://consultas.detrannet.sc.gov.br/servicos/consultaveiculo.asp?placa=&renavam=&g-recaptcha-response=&Submit=Consultar&modo=C",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DNIT",
+      "codigoOrgao": 300,
+      "site": "http://servicos.dnit.gov.br/multas/",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DPRF",
+      "codigoOrgao": 100,
+      "site": "https://nadaconsta.prf.gov.br/nada_consta/index.jsf",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "GIT CIDADÃO - PR",
+      "codigoOrgao": 116100,
+      "site": "http://www.gitcidadao.pr.gov.br/",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": "X"
+    },
+    {
+      "nomeOrgao": "PREEFEITURA DE PIRACICABA -SP",
+      "codigoOrgao": 268750,
+      "site": "https://consultainfracaopiracicaba.serget.com.br/",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREEFITURA DE JUNDIAI - SP",
+      "codigoOrgao": 266190,
+      "site": "https://jundiai.sp.gov.br/mobilidade/transito/multas-de-transito/consulta-de-multa/",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREF. JOÃO PESSOA - SEMOB - PB",
+      "codigoOrgao": 115100,
+      "site": "https://servicos.semobjp.pb.gov.br/multas/pesquisar/",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE BAURU - SP",
+      "codigoOrgao": 262190,
+      "site": "https://www.emdurb.com.br/multas/autoinfracao",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "X",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE CAMPINAS - SP",
+      "codigoOrgao": 262910,
+      "site": "http://www.emdec.com.br/eficiente/sites/portalemdec/pt-br/site.php?secao=segunda_via_boleto_multa",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": "X"
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE DIADEMA - SP",
+      "codigoOrgao": 263770,
+      "site": "https://diadema.consultacidadao.com.br/",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE FORTALEZA - CE",
+      "codigoOrgao": 213890,
+      "site": "https://radar.serpro.gov.br/main.html#/cidadao-interno",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE GUARULHOS - SP",
+      "codigoOrgao": 264770,
+      "site": "https://consultainfracaogru.serget.com.br/",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE MANAUS - AM 202550",
+      "codigoOrgao": 202550,
+      "site": "http://grm.prodam.am.gov.br/index.php/multas/consulta_pagamentos",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE MAUÁ - SP",
+      "codigoOrgao": 266890,
+      "site": "https://maua.consultacidadao.com.br/",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE SANTOS - SP 270710",
+      "codigoOrgao": 270710,
+      "site": "http://www.vtx2.com.br/infracoes/index.php?p=01PesqAutuacao",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE SÃO BERNARDO DO CAMPO - SP",
+      "codigoOrgao": 270750,
+      "site": "https://www.saobernardo.sp.gov.br/consultar-debitos",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE SÃO JOSÉ DOS CAMPOS",
+      "codigoOrgao": 270990,
+      "site": "https://radar.serpro.gov.br/main.html#/cidadao-interno",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE SOROCABA - SP",
+      "codigoOrgao": 271450,
+      "site": "https://www.urbes.com.br/multas/",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA RIO DE JANEIRO",
+      "codigoOrgao": 260010,
+      "site": "https://radar.serpro.gov.br/main.html#/cidadao",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "X",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA SÃO PAULO 271070 DSV",
+      "codigoOrgao": 271070,
+      "site": "https://meuveiculo.prefeitura.sp.gov.br/frmPesquisarRenavam.aspx",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "TRANSALVADOR - PREF. SALVADOR",
+      "codigoOrgao": 238490,
+      "site": "http://transalvador.salvador.ba.gov.br/conteudo/index.php/multa/nadaConsta",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "",
+      "codigoOrgao": "",
+      "site": "http://centralamc.com.br/",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "TODOS - RS RODA DETRAN",
+      "codigoOrgao": 121100,
+      "site": "http://www.portaldetransito.rs.gov.br/dtw2/app/servico/ifr/guia-pagamento-multas.xhtml",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DETRAN - AM",
+      "codigoOrgao": 103100,
+      "site": "https://digital.detran.am.gov.br/?openModalVeiculo=%2Fveiculo%2Fmultas",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE CARAPICUIBA - SP",
+      "codigoOrgao": 263130,
+      "site": "http://189.57.47.194:8080/multas-municipe/home.action?municipio=1",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE TABOÃO DA SERRA - SP",
+      "codigoOrgao": 271570,
+      "site": "http://189.57.47.194:8080/multas-municipe/home.action;jsessionid=DA0FD22EDB3A721041C92C693593E2FE?municipio=7",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE BARUERI - SP",
+      "codigoOrgao": 262130,
+      "site": "http://sistemas.cobrasin.com.br/multas-municipe/home.action?municipio=11",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE CAJAMAR - SP",
+      "codigoOrgao": 262850,
+      "site": "http://189.57.47.194:8080/multas-municipe/home.action?municipio=3",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE ITAPECERICA DA SERRA -SP",
+      "codigoOrgao": 265450,
+      "site": "http://189.57.47.194:8080/multas-municipe/home.action;jsessionid=CFB231D147B356FAF1D4E184D668757D?municipio=5",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE JACAREÍ - SP",
+      "codigoOrgao": 265890,
+      "site": "http://189.57.47.194:8080/multas-municipe/home.action;jsessionid=005F741D135E79D3012D5FAF41312D63?municipio=20",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA DE VINHEDO - SP",
+      "codigoOrgao": 272370,
+      "site": "http://189.57.47.194:8080/multas-municipe/home.action;jsessionid=B1C3BAA30A46814D51B2061D224950AF?municipio=2",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DER - DF",
+      "codigoOrgao": 107200,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE SAO JOSE DOS CAMPOS - SP",
+      "codigoOrgao": 270990,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE SAO CAETANO DO SUL - SP",
+      "codigoOrgao": 270770,
+      "site": "http://191.13.132.32/ConsultaMultasWeb/Home.aspx?codmun=7077",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": "X"
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE JOINVILLE - SC",
+      "codigoOrgao": 281790,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE FORTALEZA - CE",
+      "codigoOrgao": 213890,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE BOA VISTA - RR",
+      "codigoOrgao": 203010,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE PETROLINA - PE",
+      "codigoOrgao": 225210,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE CUIABA - MT",
+      "codigoOrgao": 290670,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE BALSAS - MA",
+      "codigoOrgao": 207270,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE MACAPA - AP",
+      "codigoOrgao": 206050,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE MOSSORO - RN",
+      "codigoOrgao": 217590,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE IMPERATRIZ - MA",
+      "codigoOrgao": 208030,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "SECRETARIA MUNICIPAL DE MOBILIDADE URBANA",
+      "codigoOrgao": 290670,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE CATU - BA",
+      "codigoOrgao": 234490,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE BRAGANCA PAULISTA - SP",
+      "codigoOrgao": 262510,
+      "site": "https://bragancapaulista.consultacidadao.com.br:8043/#",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE ITARARE - SP",
+      "codigoOrgao": 265650,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE AMPARO - SP",
+      "codigoOrgao": 261370,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE SINOP - MT",
+      "codigoOrgao": 289850,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE PITIMBU - PB",
+      "codigoOrgao": 221390,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE PEDREGULHO - SP",
+      "codigoOrgao": 268410,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE APARECIDA DE GOIANIA - GO",
+      "codigoOrgao": 292270,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE RIO BRANCO - AC",
+      "codigoOrgao": 201390,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE DIVINOPOLIS - MG",
+      "codigoOrgao": 244450,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE PRESIDENTE FIGUEIREDO - AM",
+      "codigoOrgao": 298410,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE ESTREITO - MA",
+      "codigoOrgao": 209630,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE BOA VISTA",
+      "codigoOrgao": 203010,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE SAO LUIS - MA",
+      "codigoOrgao": 209210,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE PAULO AFONSO - BA",
+      "codigoOrgao": 237810,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE TERESINA - PI",
+      "codigoOrgao": 212190,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE GRAVATA - PE",
+      "codigoOrgao": 224270,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE IRANDUBA - AM",
+      "codigoOrgao": 298350,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE CAPANEMA - PA",
+      "codigoOrgao": 204430,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DER - PE",
+      "codigoOrgao": 117200,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DER - TO",
+      "codigoOrgao": 128200,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DER - BA",
+      "codigoOrgao": 105200,
+      "site": "http://200.187.9.74:8180/smt/home.action",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DETRAN - BA",
+      "codigoOrgao": 105100,
+      "site": "https://sso.acesso.gov.br/login?client_id=servicos.detran.ba.gov.br&authorization_id=18891e9b5b3",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "X",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL CAMPOS DO JORDAO - SP",
+      "codigoOrgao": 262950,
+      "site": "https://www2.admtransito.com.br/consulta/index.php?USUARIO=camposdojordao-consulta",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE EMBU - SP",
+      "codigoOrgao": 264010,
+      "site": "http://sistemas.cobrasin.com.br/multas-municipe/home.action;jsessionid=EC6324FE445C2AF3A924BE10187250C6?municipio=8",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE HORTOLANDIA - SP",
+      "codigoOrgao": 101100,
+      "site": "https://hortolandia.consultacidadao.com.br/",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "SENATRAN",
+      "codigoOrgao": "",
+      "site": "",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE SANTO ANDRÉ - SP",
+      "codigoOrgao": 270570,
+      "site": "https://sindata.net.br/santoandre/pesquisa/index.aspx",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE SANTANA DE PARNAIBA",
+      "codigoOrgao": 270470,
+      "site": "https://santanadeparnaiba.consultacidadao.com.br/#",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DETRAN - MT",
+      "codigoOrgao": 111100,
+      "site": "",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE RIBEIRAO PRETO - SP",
+      "codigoOrgao": 269690,
+      "site": "https://www.ribeiraopreto.sp.gov.br/transerp/imagem-multa",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE ITAQUAQUECETUBA - SP",
+      "codigoOrgao": 265630,
+      "site": "http://sistemas.cobrasin.com.br/multas-municipe/home.action;jsessionid=55D65280DD5DFB465A3833ECDC743C90?municipio=19",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DETRAN - RJ",
+      "codigoOrgao": 119100,
+      "site": "https://www.detran.rj.gov.br/_monta_aplicacoes.asp?cod=11&tipo=consulta_multa",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "ANTT",
+      "codigoOrgao": 400,
+      "site": "https://appweb1.antt.gov.br/spmi/Site/Login.aspx?ReturnUrl=/spmi/Default.aspx",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE CARAGUATATUBA - SP",
+      "codigoOrgao": 263110,
+      "site": "https://www2.admtransito.com.br/consulta/index.php?USUARIO=caragua-consulta",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "POA",
+      "codigoOrgao": "",
+      "site": "http://179.228.165.175/consulta/index.php?ATIVIDADE=AUTUACOES",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE PINDAMONHANGABA - SP",
+      "codigoOrgao": 268610,
+      "site": "https://www2.admtransito.com.br/consulta/?USUARIO=pinda-consulta",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "262490,264750,297330,269210,270790,271150,271510,263610,229650,263710,264150,271830,220510,263130,263770,264770,266710,202550,270710,271450,271570,271070,238490,262130,262850,265450,265890,272370,105200,270770",
+      "codigoOrgao": "",
+      "site": "",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "213890,281790,107200,270990,213890,203010,225210,290670,207270,206050,217590,208030,290670,234490,265650,261370,289850,221390,268410,292270,201390,244450,298410,209630,209210,237810,212190,224270,298350,204430,117200,270990,203010,204580",
+      "codigoOrgao": "",
+      "site": "",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "262490,264750,297330,269210,270790,271150,271510,263610,229650,263710,264150,271830,266710,270970,271350,261430,263450,264250,264290,264670,264710,264730,264950,265490,265510,267130,267890,271210,272330,264950,113200,126200,116100,125100,000300,268750,266190,262910,263770,264770,271450,238490,263130,271570,262130,262850,265450,265890,272370,105200,270770",
+      "codigoOrgao": "",
+      "site": "",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "213890,281790,107200,270990,213890,203010,225210,290670,207270,206050,217590,208030,290670,234490,265650,261370,289850,221390,268410,292270,201390,244450,298410,209630,209210,237810,212190,224270,298350,204430,117200,270990,203010,204580",
+      "codigoOrgao": "",
+      "site": "",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "213890,281790,107200,270990,213890,203010,225210,290670,207270,206050,217590,208030,290670,234490,265650,261370,289850,221390,268410,292270,201390,244450,298410,209630,209210,237810,212190,224270,298350,204430,117200,270990,203010,204580,262490,264750,297330,269210,270790,271150,271510,263610,229650,263710,264150,271830,266710,270970,271350,261430,263450,264250,264290,264670,264710,264730,264950,265490,265510,267130,267890,271210,272330,264950,113200,126200,116100,125100,000300,268750,266190,262910,263770,264770,271450,238490,263130,271570,262130,262850,265450,265890,272370,105200,270770,213890,281790,107200,270990,213890,203010,225210,290670,207270,206050,217590,208030,290670,234490,265650,261370,289850,221390,268410,292270,201390,244450,298410,209630,209210,237810,212190,224270,298350,204430,117200,270990,203010,204580,262490,264750,297330,269210,270790,271150,271510,263610,229650,263710,264150,271830,220510,263130,263770,264770,266710,202550,270710,271450,271570,271070,238490,262130,262850,265450,265890,272370,105200,270770",
+      "codigoOrgao": "",
+      "site": "",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    }
+  ]
+}

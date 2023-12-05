@@ -1,0 +1,12 @@
+:root {
+  --fonte: ui-monospace, Menlo, Monaco, 'Cascadia Mono', 'Segoe UI Mono',
+    'Roboto Mono', 'Oxygen Mono', 'Ubuntu Monospace', 'Source Code Pro',
+    'Fira Mono', 'Droid Sans Mono', 'Courier New', monospace;
+
+    --azul_primario: #0000CD;
+    --azul_primario_darker: #00008B;
+    --azul_primario_whitier: #1E90FF;
+    --branco_azulado: #E0FFFF;
+    --branco: #F8F8FF;
+}
+

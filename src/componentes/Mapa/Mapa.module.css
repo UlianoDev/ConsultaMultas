@@ -1,0 +1,16 @@
+.path { 
+    fill:var(--azul_primario) 
+}
+.text { fill:var(--branco); font:12px Arial-BoldMT, sans-serif; cursor:pointer }
+.link:hover{ text-decoration:none }
+.link:hover { cursor:pointer; text-decoration:none }
+.link:hover .path{ fill: var(--azul_primario_darker) !important }
+.circle { fill:var(--azul_primario_whitier) }
+.link:hover .circle { fill:var(--azul_primario_darker) !important; cursor:pointer }
+
+.container{
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    display: flex;
+    justify-content: space-around;
+}
