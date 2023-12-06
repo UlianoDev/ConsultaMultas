@@ -1034,6 +1034,16 @@
   ],
   "RS": [
     {
+      "nomeOrgao": "TODOS RODA DETRAN - RS",
+      "codigoOrgao": 121100,
+      "site": "http://www.portaldetransito.rs.gov.br/dtw2/app/servico/ifr/guia-pagamento-multas.xhtml",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
       "nomeOrgao": "DETRAN - RS",
       "codigoOrgao": 121100,
       "site": "https://www.portaldetransito.rs.gov.br/dtw/servicos/sit/notificacao_pesquisar.jsp",
@@ -1090,6 +1100,16 @@
   ],
   "PB": [
     {
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE BOA VISTA",
+      "codigoOrgao": 203010,
+      "site": "",
+      "fotoOrgao": "X",
+      "notificacaoOrgao": "X",
+      "extratoOrgao": "X",
+      "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
       "nomeOrgao": "PREF. JOÃO PESSOA - SEMOB - PB",
       "codigoOrgao": 115100,
       "site": "https://servicos.semobjp.pb.gov.br/multas/pesquisar/",
@@ -1123,10 +1143,6 @@
       "originariaOrgao": ""
     }
   ],
-
-  "OR": [
-
-  ],
   "": [
     {
       "nomeOrgao": "",
@@ -1139,17 +1155,8 @@
       "originariaOrgao": ""
     }
   ],
-  "AN": [
-    {
-      "nomeOrgao": "TODOS - RS RODA DETRAN",
-      "codigoOrgao": 121100,
-      "site": "http://www.portaldetransito.rs.gov.br/dtw2/app/servico/ifr/guia-pagamento-multas.xhtml",
-      "fotoOrgao": "",
-      "notificacaoOrgao": "X",
-      "extratoOrgao": "",
-      "boletoOrgao": "X",
-      "originariaOrgao": ""
-    },
+  "OUTROS": [
+
     {
       "nomeOrgao": "SENATRAN",
       "codigoOrgao": "",
@@ -1249,7 +1256,7 @@
   ],
   "NA": [
     {
-      "nomeOrgao": "SECRETARIA MUNICIPAL DE MOBILIDADE URBANA",
+      "nomeOrgao": "SECRETARIA MUNICIPAL DE MOBILIDADE URBANA - PR",
       "codigoOrgao": 290670,
       "site": "",
       "fotoOrgao": "X",
@@ -1333,18 +1340,7 @@
       "originariaOrgao": ""
     }
   ],
-  "TA": [
-    {
-      "nomeOrgao": "PREFEITURA MUNICIPAL DE BOA VISTA",
-      "codigoOrgao": 203010,
-      "site": "",
-      "fotoOrgao": "X",
-      "notificacaoOrgao": "X",
-      "extratoOrgao": "X",
-      "boletoOrgao": "X",
-      "originariaOrgao": ""
-    }
-  ],
+
   "RJ": [
     {
       "nomeOrgao": "DETRAN - RJ",

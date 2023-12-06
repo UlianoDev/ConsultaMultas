@@ -8,9 +8,11 @@
 .circle { fill:var(--azul_primario_whitier) }
 .link:hover .circle { fill:var(--azul_primario_darker) !important; cursor:pointer }
 
+
 .container{
     padding-top: 10vh;
     padding-bottom: 10vh;
+    padding-left: 10vh;
     display: flex;
-    justify-content: space-around;
+    gap:20vh;
 }

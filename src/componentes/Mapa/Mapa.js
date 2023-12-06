@@ -5,7 +5,7 @@ import Link from 'next/link';
 export default function Mapa({children}) {
   return (
     <div className={styles.container}>
-    <div className={styles.mapa}>
+
   <svg version="1.1" id={styles.svg_map} xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="450px" height="460px" viewBox="0 0 450 460" enable-background="new 0 0 450 460" xmlSpace="preserve">
   <g id="mapa">
       <Link className={styles.link} href="estados/tocantins">
@@ -349,7 +349,7 @@ export default function Mapa({children}) {
     </g>
 </svg>
 
-    </div>
+
     {children}
     </div>
   );
