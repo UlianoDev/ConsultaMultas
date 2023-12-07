@@ -1,8 +1,7 @@
 .tableContainer {
-    max-height: 60vh; 
+    max-height: 60vh;
     overflow-y: auto; 
-    width: 50%;
-
+    width: 100%;
   }
 .tableContainer::-webkit-scrollbar {
     width: 8px; 
