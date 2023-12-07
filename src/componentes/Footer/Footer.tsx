@@ -1,7 +1,11 @@
 import Link from "next/link"
 import styles from "./Footer.module.css"
 
-export default function({setModalEmail}:{setModalEmail:any}){
+interface FooterProps {
+    setModalEmail: React.Dispatch<React.SetStateAction<boolean>>;
+  }
+
+export default function({setModalEmail}:FooterProps){
     const linkedin = "https://www.linkedin.com/in/gabriel-uliano-dev/"
     const enviarEmail = () => {
         setModalEmail(true)

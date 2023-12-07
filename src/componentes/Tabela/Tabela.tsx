@@ -11,7 +11,7 @@ interface Orgao{
 interface TabelaProps {
     siglaEstado: string;
     tabelaPesquisar?: boolean;
-    caracteresPesquisados: string;
+    caracteresPesquisados?: string;
   }
 
 export default function Tabela({siglaEstado, tabelaPesquisar,caracteresPesquisados}:TabelaProps){
@@ -19,7 +19,7 @@ export default function Tabela({siglaEstado, tabelaPesquisar,caracteresPesquisad
     const dataPesquisa = db_default.data;
 
     
-    if(tabelaPesquisar){
+    if(tabelaPesquisar  && caracteresPesquisados !== undefined){
         const resultadosPesquisa = dataPesquisa.filter((item) =>
         removerAcentos(item.nomeOrgao.toLowerCase()).includes(
           removerAcentos(caracteresPesquisados.toLowerCase())
