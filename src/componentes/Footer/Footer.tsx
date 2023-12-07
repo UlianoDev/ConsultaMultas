@@ -5,7 +5,7 @@ interface FooterProps {
     setModalEmail: React.Dispatch<React.SetStateAction<boolean>>;
   }
 
-export default function({setModalEmail}:FooterProps){
+export default function Footer({setModalEmail}:FooterProps){
     const linkedin = "https://www.linkedin.com/in/gabriel-uliano-dev/"
     const enviarEmail = () => {
         setModalEmail(true)
