@@ -44,7 +44,7 @@
     {
       "nomeOrgao": "PREFEITURA DE BOTUCATU - SP",
       "codigoOrgao": 262490,
-      "site": "http://www2.admtransito.com.br/consulta/index.php?ATIVIDADE=AUTUACOES",
+      "site": "https://www.botucatu.sp.gov.br/semutran",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -54,7 +54,7 @@
     {
       "nomeOrgao": "PREFEITURA GUARUJA - SP",
       "codigoOrgao": 264750,
-      "site": "http://179.228.165.175/consulta/index.php?ATIVIDADE=AUTUACOES",
+      "site": "https://www.guaruja.sp.gov.br/tag/multas/",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -64,7 +64,7 @@
     {
       "nomeOrgao": "PREFEITURA DE PRAIA GRANDE - SP",
       "codigoOrgao": 269210,
-      "site": "http://www.parisadministracao.com.br/sttpublico/index.php",
+      "site": "https://www.praiagrande.sp.gov.br/atendimento/transito/multas.asp",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -74,17 +74,7 @@
     {
       "nomeOrgao": "PREFEITURA DE SÃO CARLOS - SP",
       "codigoOrgao": 270790,
-      "site": "http://www2.admtransito.com.br/consulta/index.php",
-      "fotoOrgao": "X",
-      "notificacaoOrgao": "X",
-      "extratoOrgao": "X",
-      "boletoOrgao": "X",
-      "originariaOrgao": ""
-    },
-    {
-      "nomeOrgao": "PREFEITURA DE SÃO SEBASTIÃO - SP",
-      "codigoOrgao": 271150,
-      "site": "http://179.228.165.175/consulta/index.php?ATIVIDADE=AUTUACOES",
+      "site": "http://www.saocarlos.sp.gov.br/index.php/transporte-transito/154080-informacoes-de-infracoes-de-transito-multa.html",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -134,7 +124,7 @@
     {
       "nomeOrgao": "PREFEITURA DE FERRAZ DE VASCONCELOS - SP",
       "codigoOrgao": 264150,
-      "site": "http://200.98.31.31/consulta/index.php?ATIVIDADE=AUTUACOES",
+      "site": "https://ferrazdevasconcelos.sp.gov.br/web/secretaria-de-transportes-e-mobilidade-urbana/",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -514,7 +504,7 @@
     {
       "nomeOrgao": "PREFEITURA MUNICIPAL DE SAO JOSE DOS CAMPOS - SP",
       "codigoOrgao": 270990,
-      "site": "",
+      "site": "https://www.sjc.sp.gov.br/servicos/mobilidade-urbana/multas-de-transito/",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -544,7 +534,7 @@
     {
       "nomeOrgao": "PREFEITURA MUNICIPAL DE ITARARE - SP",
       "codigoOrgao": 265650,
-      "site": "",
+      "site": "https://itarare.sp.gov.br/prefeitura-de-itarare-sp-disponibiliza-consulta-de-multas-de-transito-on-line/",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -554,7 +544,7 @@
     {
       "nomeOrgao": "PREFEITURA MUNICIPAL DE AMPARO - SP",
       "codigoOrgao": 261370,
-      "site": "",
+      "site": "https://www.amparo.sp.gov.br/transito",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -564,7 +554,7 @@
     {
       "nomeOrgao": "PREFEITURA MUNICIPAL DE PEDREGULHO - SP",
       "codigoOrgao": 268410,
-      "site": "",
+      "site": "http://dns1.pedregulho.sp.gov.br/index.php/134-transito/1332-transito",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -666,7 +656,7 @@
     {
       "nomeOrgao": "DER - TO",
       "codigoOrgao": 128200,
-      "site": "",
+      "site": "https://www.to.gov.br/ouvidoria/detran-consulta-de-multas/3dw96np4xavc",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -698,7 +688,7 @@
     {
       "nomeOrgao": "DETRAN - PR IMG",
       "codigoOrgao": 116100,
-      "site": "",
+      "site": "https://www.detran.pr.gov.br/servicos/Veiculo/Guias-para-pagamento-e-taxas/Consultar-extrato-de-veiculo-0A30boka",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "",
@@ -708,7 +698,7 @@
     {
       "nomeOrgao": "PREFEITURA MUNICIPAL DE DIVINOPOLIS - MG",
       "codigoOrgao": 244450,
-      "site": "",
+      "site": "https://www.divinopolis.mg.gov.br/portal/servicos/167/Consultar-a-situa%C3%A7%C3%A3o-do-ve%C3%ADculo",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -732,7 +722,7 @@
     {
       "nomeOrgao": "DETRAN - CE",
       "codigoOrgao": 106100,
-      "site": "https://sistemas.detran.ce.gov.br/central/veiculos/consulta_completa \r\nhttp://erenavam.detran.ce.gov.br/getran/emissao.do",
+      "site": "https://sistemas.detran.ce.gov.br/central/veiculos/consulta_completa",
       "fotoOrgao": "",
       "notificacaoOrgao": "",
       "extratoOrgao": "X",
@@ -752,7 +742,7 @@
     {
       "nomeOrgao": "PREFEITURA MUNICIPAL DE FORTALEZA - CE",
       "codigoOrgao": 213890,
-      "site": "",
+      "site": "https://catalogodeservicos.fortaleza.ce.gov.br/categoria/mobilidade/servico/452",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -774,7 +764,7 @@
     {
       "nomeOrgao": "DER - DF",
       "codigoOrgao": 107200,
-      "site": "",
+      "site": "https://www.der.df.gov.br/consulta-multa/",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -808,7 +798,7 @@
     {
       "nomeOrgao": "PREFEITURA MUNICIPAL DE APARECIDA DE GOIANIA - GO",
       "codigoOrgao": 292270,
-      "site": "",
+      "site": "https://www.aparecida.go.gov.br/tag/transito/",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -830,7 +820,7 @@
     {
       "nomeOrgao": "PREFEITURA MUNICIPAL DE BALSAS - MA",
       "codigoOrgao": 207270,
-      "site": "",
+      "site": "https://balsas.ma.gov.br/",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -840,7 +830,7 @@
     {
       "nomeOrgao": "PREFEITURA MUNICIPAL DE IMPERATRIZ - MA",
       "codigoOrgao": 208030,
-      "site": "",
+      "site": "http://servicos.imperatriz.ma.gov.br/radar/",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -850,7 +840,7 @@
     {
       "nomeOrgao": "PREFEITURA MUNICIPAL DE ESTREITO - MA",
       "codigoOrgao": 209630,
-      "site": "",
+      "site": "https://estreito.ma.gov.br/",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -860,7 +850,7 @@
     {
       "nomeOrgao": "PREFEITURA MUNICIPAL DE SAO LUIS - MA",
       "codigoOrgao": 209210,
-      "site": "",
+      "site": "https://saoluis.ma.gov.br/",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -884,7 +874,7 @@
     {
       "nomeOrgao": "DETRAN - PA",
       "codigoOrgao": 114100,
-      "site": "http://www.detran.pa.gov.br/sistransito/detran-web/servicos/b/indexBInfracao.jsf https://www.detran.pa.gov.br/sistransito/detran-web/servicos/infracao/indexConsultaInfracao.jsf",
+      "site": "https://www.detran.pa.gov.br/sistransito/detran-web/servicos/infracao/indexConsultaInfracao.jsf",
       "fotoOrgao": "",
       "notificacaoOrgao": "",
       "extratoOrgao": "",
@@ -894,7 +884,7 @@
     {
       "nomeOrgao": "PREFEITURA MUNICIPAL DE CAPANEMA - PA",
       "codigoOrgao": 204430,
-      "site": "",
+      "site": "https://www.capanema.pa.gov.br/",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -916,7 +906,7 @@
     {
       "nomeOrgao": "PREFEITURA MUNICIPAL DE PETROLINA - PE",
       "codigoOrgao": 225210,
-      "site": "",
+      "site": "https://petrolina.pe.gov.br/consulta-de-multas/",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -926,7 +916,7 @@
     {
       "nomeOrgao": "PREFEITURA MUNICIPAL DE GRAVATA - PE",
       "codigoOrgao": 224270,
-      "site": "",
+      "site": "http://ti.gravata.pe.gov.br/transito/infracaomulta.html",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -936,7 +926,7 @@
     {
       "nomeOrgao": "DER - PE",
       "codigoOrgao": 117200,
-      "site": "",
+      "site": "https://www.der.pe.gov.br/transito-menu/telefones-uteis",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -958,7 +948,7 @@
     {
       "nomeOrgao": "PREFEITURA MUNICIPAL DE TERESINA - PI",
       "codigoOrgao": 212190,
-      "site": "",
+      "site": "http://slic.semf.teresina.pi.gov.br/",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -992,7 +982,7 @@
     {
       "nomeOrgao": "DETRAN - RN",
       "codigoOrgao": 120100,
-      "site": "http://www2.detran.rn.gov.br/externo/consultarveiculo.asp",
+      "site": "https://www2.detran.rn.gov.br/externo/consultarveiculo.asp",
       "fotoOrgao": "",
       "notificacaoOrgao": "",
       "extratoOrgao": "",
@@ -1002,7 +992,7 @@
     {
       "nomeOrgao": "PREFEITURA MUNICIPAL DE MOSSORO - RN",
       "codigoOrgao": 217590,
-      "site": "",
+      "site": "https://www.prefeiturademossoro.com.br/noticia/secretaria-de-seguranca-e-transito-segue-com-atendimento-online-1",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -1024,7 +1014,7 @@
     {
       "nomeOrgao": "PREFEITURA MUNICIPAL DE BOA VISTA - RR",
       "codigoOrgao": 203010,
-      "site": "",
+      "site": "https://boavista.rr.gov.br/prefeitura/secretarias-e-orgaos-municipais/secretaria-municipal-de-seguranca-urbana-e-transito/servicos-smst",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -1068,7 +1058,7 @@
     {
       "nomeOrgao": "PREFEITURA MUNICIPAL DE JOINVILLE - SC",
       "codigoOrgao": 281790,
-      "site": "",
+      "site": "https://www.joinville.sc.gov.br/servicos/consultar-infracoes-de-transito/",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -1100,9 +1090,9 @@
   ],
   "PB": [
     {
-      "nomeOrgao": "PREFEITURA MUNICIPAL DE BOA VISTA",
+      "nomeOrgao": "PREFEITURA MUNICIPAL DE BOA VISTA - PB",
       "codigoOrgao": 203010,
-      "site": "",
+      "site": "https://www.boavista.pb.gov.br/",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -1122,7 +1112,7 @@
     {
       "nomeOrgao": "PREFEITURA MUNICIPAL DE PITIMBU - PB",
       "codigoOrgao": 221390,
-      "site": "",
+      "site": "https://www.pitimbu.pb.gov.br/a-prefeitura/orgaos/departamento-municipal-de-transito",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -1133,12 +1123,12 @@
 
   "RO": [
     {
-      "nomeOrgao": "PREFEITURA RIO DE JANEIRO",
-      "codigoOrgao": 260010,
-      "site": "https://radar.serpro.gov.br/main.html#/cidadao",
-      "fotoOrgao": "",
-      "notificacaoOrgao": "",
-      "extratoOrgao": "X",
+      "nomeOrgao": "Detran - RO",
+      "codigoOrgao": "",
+      "site": "https://www.detran.ro.gov.br/",
+      "fotoOrgao":"",
+      "notificacaoOrgao":"",
+      "extratoOrgao": "",
       "boletoOrgao": "",
       "originariaOrgao": ""
     }
@@ -1160,7 +1150,7 @@
     {
       "nomeOrgao": "SENATRAN",
       "codigoOrgao": "",
-      "site": "",
+      "site": "https://portalservicos.senatran.serpro.gov.br/#/home",
       "fotoOrgao": "",
       "notificacaoOrgao": "",
       "extratoOrgao": "",
@@ -1192,7 +1182,7 @@
     {
       "nomeOrgao": "PREFEITURA MUNICIPAL DE PRESIDENTE FIGUEIREDO - AM",
       "codigoOrgao": 298410,
-      "site": "",
+      "site": "https://www.presidentefigueiredo.am.gov.br/servicos/",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -1202,7 +1192,7 @@
     {
       "nomeOrgao": "PREFEITURA MUNICIPAL DE IRANDUBA - AM",
       "codigoOrgao": 298350,
-      "site": "",
+      "site": "https://www.detran.am.gov.br/municipios/iranduba/",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -1214,7 +1204,7 @@
     {
       "nomeOrgao": "PREFEITURA MUNICIPAL DE CUIABA - MT",
       "codigoOrgao": 290670,
-      "site": "",
+      "site": "https://www.servicosonlinesemob.cuiaba.mt.gov.br/servicosonlinesemob/",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -1224,7 +1214,7 @@
     {
       "nomeOrgao": "PREFEITURA MUNICIPAL DE SINOP - MT",
       "codigoOrgao": 289850,
-      "site": "",
+      "site": "https://www.sinop.mt.gov.br/Consulta-Transito/",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -1234,7 +1224,7 @@
     {
       "nomeOrgao": "DETRAN - MT",
       "codigoOrgao": 111100,
-      "site": "",
+      "site": "https://www.detran.mt.gov.br/-/11380973-consultar-infracao",
       "fotoOrgao": "",
       "notificacaoOrgao": "",
       "extratoOrgao": "",
@@ -1246,7 +1236,7 @@
     {
       "nomeOrgao": "PREFEITURA MUNICIPAL DE MACAPA - AP",
       "codigoOrgao": 206050,
-      "site": "",
+      "site": "https://macapa.ap.gov.br/consulta-de-multas/",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -1258,7 +1248,7 @@
     {
       "nomeOrgao": "SECRETARIA MUNICIPAL DE MOBILIDADE URBANA - PR",
       "codigoOrgao": 290670,
-      "site": "",
+      "site": "https://www.maringa.pr.gov.br/semob/",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -1280,7 +1270,7 @@
     {
       "nomeOrgao": "PREFEITURA MUNICIPAL DE CATU - BA",
       "codigoOrgao": 234490,
-      "site": "",
+      "site": "https://www.catu.ba.gov.br/",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -1290,7 +1280,7 @@
     {
       "nomeOrgao": "PREFEITURA MUNICIPAL DE PAULO AFONSO - BA",
       "codigoOrgao": 237810,
-      "site": "",
+      "site": "https://pauloafonso.ba.gov.br/",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -1332,7 +1322,7 @@
     {
       "nomeOrgao": "PREFEITURA MUNICIPAL DE RIO BRANCO - AC",
       "codigoOrgao": 201390,
-      "site": "",
+      "site": "https://www.riobranco.ac.gov.br/",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -1360,6 +1350,16 @@
       "notificacaoOrgao": "",
       "extratoOrgao": "",
       "boletoOrgao": "X",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "PREFEITURA RIO DE JANEIRO",
+      "codigoOrgao": 260010,
+      "site": "https://radar.serpro.gov.br/main.html#/cidadao",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "X",
+      "boletoOrgao": "",
       "originariaOrgao": ""
     }
   ],

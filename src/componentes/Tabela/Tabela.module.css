@@ -69,3 +69,11 @@
     text-decoration: underline;
   }
   
+  @media(max-width: 1000px){
+    .tableContainer {
+      max-height: 60vh; 
+      overflow-y: auto; 
+      width: 90%;
+  
+    }
+  }

@@ -24,8 +24,6 @@ export default function Header({ setterModal,setterCaracteres }: HeaderProps){
         <label className={styles.label} htmlFor="buscaPorNome">Buscar autuador por nome:</label>
        <input onChange={(event)=>verificaMudancaInput(event)} className={styles.inputBusca} name="buscaPorNome" type="text" placeholder="Digite o nome de um Autuador..."/>
         
-       <label className={styles.label} htmlFor="buscaPorCodigo">Buscar autuador por codigo:</label>
-       <input className={styles.inputBusca} name="buscaPorCodigo" type="number" placeholder="Digite o codigo de um Autuador..."/>
         </div>
         </div>
     )
