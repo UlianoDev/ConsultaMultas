@@ -312,16 +312,6 @@
       "originariaOrgao": ""
     },
     {
-      "nomeOrgao": "PREFEITURA MUNICIPAL DE IBIUNA - SP",
-      "codigoOrgao": 264950,
-      "site": "http://www.dcctransito.com.br/consulta/index.cfm?municipio=6495",
-      "fotoOrgao": "X",
-      "notificacaoOrgao": "",
-      "extratoOrgao": "",
-      "boletoOrgao": "X",
-      "originariaOrgao": ""
-    },
-    {
       "nomeOrgao": "PREFEITURA DE SUMARÉ - SP",
       "codigoOrgao": 271490,
       "site": "https://sumare.consultacidadao.com.br/#",
@@ -495,16 +485,6 @@
       "nomeOrgao": "PREFEITURA DE VINHEDO - SP",
       "codigoOrgao": 272370,
       "site": "http://189.57.47.194:8080/multas-municipe/home.action;jsessionid=B1C3BAA30A46814D51B2061D224950AF?municipio=2",
-      "fotoOrgao": "X",
-      "notificacaoOrgao": "X",
-      "extratoOrgao": "X",
-      "boletoOrgao": "X",
-      "originariaOrgao": ""
-    },
-    {
-      "nomeOrgao": "PREFEITURA MUNICIPAL DE SAO JOSE DOS CAMPOS - SP",
-      "codigoOrgao": 270990,
-      "site": "https://www.sjc.sp.gov.br/servicos/mobilidade-urbana/multas-de-transito/",
       "fotoOrgao": "X",
       "notificacaoOrgao": "X",
       "extratoOrgao": "X",
@@ -725,16 +705,6 @@
       "site": "https://sistemas.detran.ce.gov.br/central/veiculos/consulta_completa",
       "fotoOrgao": "",
       "notificacaoOrgao": "",
-      "extratoOrgao": "X",
-      "boletoOrgao": "X",
-      "originariaOrgao": ""
-    },
-    {
-      "nomeOrgao": "PREFEITURA DE FORTALEZA - CE",
-      "codigoOrgao": 213890,
-      "site": "https://radar.serpro.gov.br/main.html#/cidadao-interno",
-      "fotoOrgao": "X",
-      "notificacaoOrgao": "X",
       "extratoOrgao": "X",
       "boletoOrgao": "X",
       "originariaOrgao": ""
@@ -969,7 +939,7 @@
     },
     {
       "nomeOrgao": "GIT CIDADÃO - PR",
-      "codigoOrgao": 116100,
+      "codigoOrgao": "",
       "site": "http://www.gitcidadao.pr.gov.br/",
       "fotoOrgao": "",
       "notificacaoOrgao": "",
@@ -1023,16 +993,6 @@
     }
   ],
   "RS": [
-    {
-      "nomeOrgao": "TODOS RODA DETRAN - RS",
-      "codigoOrgao": 121100,
-      "site": "http://www.portaldetransito.rs.gov.br/dtw2/app/servico/ifr/guia-pagamento-multas.xhtml",
-      "fotoOrgao": "",
-      "notificacaoOrgao": "X",
-      "extratoOrgao": "",
-      "boletoOrgao": "X",
-      "originariaOrgao": ""
-    },
     {
       "nomeOrgao": "DETRAN - RS",
       "codigoOrgao": 121100,
@@ -1344,7 +1304,7 @@
     },
     {
       "nomeOrgao": "BRADESCO",
-      "codigoOrgao": 119100,
+      "codigoOrgao": "",
       "site": "https://www.ib7.bradesco.com.br/ibpfdetranrj/debitoVeiculoRJGrmConsultar.do",
       "fotoOrgao": "",
       "notificacaoOrgao": "",

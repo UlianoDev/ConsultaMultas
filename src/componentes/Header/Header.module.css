@@ -33,3 +33,19 @@
     margin-bottom: 8px;
     margin-top: 8px;
   }
+@media(max-width:550px){
+  .div{
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  .header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+  }
+}

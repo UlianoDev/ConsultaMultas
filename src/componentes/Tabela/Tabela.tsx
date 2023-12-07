@@ -46,7 +46,17 @@ function removerAcentos(texto:string) {
   }
 
 function templateTabela(css: any, db:any, renderizarBody: boolean){
-    const body = db.map((obj: Orgao)=><tr className={css.tr}><td className={css.td}>{obj.nomeOrgao}</td><td className={css.td}>{obj.codigoOrgao}</td><td className={css.td}><a className={css.link} href={obj.site} target="_blank">Clique Aqui</a></td></tr>)
+
+    const body = db.map((obj: Orgao, index:number)=>{
+      const key = obj.codigoOrgao || `fallbackKey_${index}`;
+      return(
+      <tr className={css.tr} key={key}>
+        <td className={css.td}>{obj.nomeOrgao}</td>
+        <td className={css.td}>{obj.codigoOrgao}</td>
+        <td className={css.td}><a className={css.link} href={obj.site} target="_blank">Clique Aqui</a></td>
+        </tr>
+      )
+    })
     return(
         <nav className={css.tableContainer}>
         <table border={1} className={css.table}>
