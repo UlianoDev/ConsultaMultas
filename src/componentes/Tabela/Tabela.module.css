@@ -76,4 +76,12 @@
       width: 90%;
   
     }
+    @media(max-height: 570px){
+      .tableContainer {
+        max-height: 60vh; 
+        overflow-y: auto; 
+        width: 90%;
+
+      }
+    }
   }
