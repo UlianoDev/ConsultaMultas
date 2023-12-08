@@ -1319,6 +1319,66 @@
       "extratoOrgao": "",
       "boletoOrgao": "",
       "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DETRAN - AC",
+      "codigoOrgao": "",
+      "site": "https://www.detran.ac.gov.br/infracoes-multas/",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DETRAN - AP",
+      "codigoOrgao": "",
+      "site": "https://www.detran.ap.gov.br/detranap/veiculo/consulta-de-veiculos/",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DETRAN - TO",
+      "codigoOrgao": "",
+      "site": "https://www.to.gov.br/ouvidoria/detran-consulta-de-multas/3dw96np4xavc",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DETRAN - PB",
+      "codigoOrgao": "",
+      "site": "https://detran.pb.gov.br/formularios/multas-consulta-e-emissao-de-boleto-bancario",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DETRAN - SE",
+      "codigoOrgao": "",
+      "site": "https://www.detran.se.gov.br/portal/?menu=3",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
+    },
+    {
+      "nomeOrgao": "DETRAN - SP",
+      "codigoOrgao": "",
+      "site": "https://www.detran.sp.gov.br/wps/portal/portaldetran/cidadao/infracoes/servicos/consultaMultas/!ut/p/z1/pZJLb8IwDIB_C4dea6cJW7pbBqXPaYNtUHJBBXWhU2lQ6ejfHw8JCdF1IHyL9X2J7RgkxCCLZJuppMp0keS781Q-zIIh9jyPWxFnVh-HY-fN90NGXHyEyQGgDN_tZyIQqcdR8NGHJyIkyLog7_HdW33ujAd7nw6I82phiNf5J8Al_R4Km7EXPwgp2vQ6H_8Icev7l4Bsv34C8oC0_UAr4F4ADTM876JhSP-VGYBUuZ4fN0oUc8oVyDL9Ssu0NH_KXXpZVevNk4EG1nVtKq1VnpoLvTKwSVnqTQXxOQnr1ec-Ysz8726-jYTodH4Bc-mK9g!!/p0/IZ7_JQ0CHH82L842D0QVEPIIK41G86=CZ6_JQ0CHH82L842D0QVEPIIK41G07=LA0=Ejavax.servlet.include.path_info!QCPpagesQCPdebitosRestricoesProprietarioQCPprePesquisaView.xhtml==/#Z7_JQ0CHH82L842D0QVEPIIK41G86",
+      "fotoOrgao": "",
+      "notificacaoOrgao": "",
+      "extratoOrgao": "",
+      "boletoOrgao": "",
+      "originariaOrgao": ""
     }
   ]
 }

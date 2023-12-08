@@ -64,7 +64,7 @@ function templateTabela(css: any, db:any, renderizarBody: boolean){
             <tr className={css.tr}>
             <th className={css.th}>Nome Órgão</th>
             <th className={css.th}>Código Órgão</th>
-           <th className={css.th}>Código Órgão</th>
+           <th className={css.th}>Link</th>
             </tr>
         </thead >
         <tbody className={css.tbody}>
