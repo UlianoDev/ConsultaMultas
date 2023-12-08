@@ -51,7 +51,7 @@ function templateTabela(css: any, db:any, renderizarBody: boolean){
       const key = obj.codigoOrgao || `fallbackKey_${index}`;
       return(
       <tr className={css.tr} key={key}>
-        <td className={css.td}>{obj.nomeOrgao}</td>
+        <td className={css.td}>{obj.nomeOrgao.toUpperCase()}</td>
         <td className={css.td}>{obj.codigoOrgao}</td>
         <td className={css.td}><a className={css.link} href={obj.site} target="_blank">Clique Aqui</a></td>
         </tr>
